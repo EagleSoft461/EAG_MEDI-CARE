@@ -201,9 +201,7 @@ Randevu durumunu takip edin
 🖼️ Ekran Görüntüleri
 <div align="center">
 Dashboard	Doktor Yönetimi	Hasta Yönetimi
-https://via.placeholder.com/300x200/3498db/ffffff?text=Dashboard	https://via.placeholder.com/300x200/2ecc71/ffffff?text=Doktorlar	https://via.placeholder.com/300x200/e74c3c/ffffff?text=Hastalar
-Randevular	Poliklinikler	Reçeteler
-https://via.placeholder.com/300x200/9b59b6/ffffff?text=Randevular	https://via.placeholder.com/300x200/f39c12/ffffff?text=Poliklinikler	https://via.placeholder.com/300x200/1abc9c/ffffff?text=Re%C3%A7eteler
+https://github.com/EagleSoft461/EAG_MEDI-CARE/tree/main/Screenshot
 </div>
 🔧 Yapılandırma
 Veritabanı Yapılandırması

@@ -7,7 +7,9 @@
 
 <div align="center">
 
-![EAG MEDI-CARE](https://github.com/EagleSoft461/EAG_MEDI-CARE/blob/main/Screenshot/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-19%20143826.png)
+![EAG MEDI-CARE](https://github.com/EagleSoft461/EAG_MEDI-CARE/blob/main/Screenshot/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-19%20143826.png )
+
+![EAG MEDI-CARE](https://github.com/EagleSoft461/EAG_MEDI-CARE/blob/main/Screenshot/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-10-19%20143843.png)
 
 **Modern, verimli ve kullanıcı dostu hastane yönetim çözümü**
 

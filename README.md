@@ -1,112 +1,86 @@
-🏥 EAG MEDI-CARE - Hastane Yönetim Sistemi
-https://img.shields.io/badge/Java-11%252B-blue.svg
-https://img.shields.io/badge/MySQL-8.0-orange.svg
-https://img.shields.io/badge/Java%2520Swing-GUI-green.svg
-https://img.shields.io/badge/Lisans-MIT-yellow.svg
+# 🏥 EAG MEDI-CARE - Hastane Yönetim Sistemi
+
+[![Java](https://img.shields.io/badge/Java-11%2B-blue.svg)](https://java.com)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0-orange.svg)](https://mysql.com)
+[![Swing](https://img.shields.io/badge/Java%20Swing-GUI-green.svg)](https://docs.oracle.com/javase/tutorial/uiswing/)
+[![Lisans](https://img.shields.io/badge/Lisans-MIT-yellow.svg)](LICENSE)
 
 <div align="center">
-https://via.placeholder.com/800x400/2c3e50/ffffff?text=EAG+MEDI-CARE+Hastane+Y%C3%B6netim+Sistemi
 
-Modern, verimli ve kullanıcı dostu hastane yönetim çözümü
+![EAG MEDI-CARE](https://via.placeholder.com/800x400/2c3e50/ffffff?text=EAG+MEDI-CARE+Hastane+Yönetim+Sistemi)
+
+**Modern, verimli ve kullanıcı dostu hastane yönetim çözümü**
 
 </div>
-📋 İçindekiler
-✨ Özellikler
 
-🚀 Hızlı Başlangıç
+## 📋 İçindekiler
 
-🛠️ Kurulum
+- [✨ Özellikler](#-özellikler)
+- [🚀 Hızlı Başlangıç](#-hızlı-başlangıç)
+- [🛠️ Kurulum](#️-kurulum)
+- [📁 Proje Yapısı](#-proje-yapısı)
+- [🎯 Kullanım](#-kullanım)
+- [🖼️ Ekran Görüntüleri](#️-ekran-görüntüleri)
+- [🔧 Yapılandırma](#-yapılandırma)
+- [🤝 Katkıda Bulunma](#-katkıda-bulunma)
+- [📄 Lisans](#-lisans)
+- [👥 Katkıda Bulunanlar](#-katkıda-bulunanlar)
 
-📁 Proje Yapısı
+## ✨ Özellikler
 
-🎯 Kullanım
+### 🎨 Modern Arayüz
+- **Responsive Tasarım** - Modern ve profesyonel arayüz
+- **Karanlık/Açık Temalar** - Çoklu tema seçenekleri
+- **Gerçek Zamanlı Arama** - Anında filtreleme ve arama
+- **Yazdırma Desteği** - Verileri yazdırılabilir formata aktar
 
-🖼️ Ekran Görüntüleri
+### 👨‍⚕️ Doktor Yönetimi
+- ✅ Doktor ekleme, düzenleme, silme
+- ✅ Uzmanlık ve bölüm yönetimi
+- ✅ İletişim bilgileri ve müsaitlik
+- ✅ Aktif/pasif durum takibi
 
-🔧 Yapılandırma
+### 👥 Hasta Yönetimi
+- ✅ Tam hasta profilleri
+- ✅ Tıbbi geçmiş kayıtları
+- ✅ İletişim ve demografik bilgiler
+- ✅ Kayıt tarihi takibi
 
-🤝 Katkıda Bulunma
+### 📅 Randevu Sistemi
+- ✅ Randevu oluşturma ve yönetme
+- ✅ Doktor ve poliklinik seçimi
+- ✅ Zaman aralığı yönetimi
+- ✅ Randevu durum takibi
 
-📄 Lisans
+### 🏥 Poliklinik Yönetimi
+- ✅ Bölüm yönetimi
+- ✅ Kat ve konum takibi
+- ✅ Doktor atama
+- ✅ İletişim bilgileri
 
-👥 Katkıda Bulunanlar
+### 💊 Reçete Yönetimi
+- ✅ Dijital reçete oluşturma
+- ✅ İlaç ve dozaj takibi
+- ✅ Kullanım talimatları
+- ✅ Reçete geçmişi
 
-✨ Özellikler
-🎨 Modern Arayüz
-Responsive Tasarım - Modern ve profesyonel arayüz
+### 📊 Dashboard & Analitik
+- ✅ Gerçek zamanlı istatistikler
+- ✅ Görsel veri temsili
+- ✅ Sistem genel bakış
+- ✅ Performans metrikleri
 
-Karanlık/Açık Temalar - Çoklu tema seçenekleri
+## 🚀 Hızlı Başlangıç
 
-Gerçek Zamanlı Arama - Anında filtreleme ve arama
+### Ön Gereksinimler
+- **Java JDK 11** veya üstü
+- **MySQL Server 8.0** veya üstü
+- **MySQL Connector/J**
 
-Yazdırma Desteği - Verileri yazdırılabilir formata aktar
+### 🛠️ Kurulum
 
-👨‍⚕️ Doktor Yönetimi
-✅ Doktor ekleme, düzenleme, silme
-
-✅ Uzmanlık ve bölüm yönetimi
-
-✅ İletişim bilgileri ve müsaitlik
-
-✅ Aktif/pasif durum takibi
-
-👥 Hasta Yönetimi
-✅ Tam hasta profilleri
-
-✅ Tıbbi geçmiş kayıtları
-
-✅ İletişim ve demografik bilgiler
-
-✅ Kayıt tarihi takibi
-
-📅 Randevu Sistemi
-✅ Randevu oluşturma ve yönetme
-
-✅ Doktor ve poliklinik seçimi
-
-✅ Zaman aralığı yönetimi
-
-✅ Randevu durum takibi
-
-🏥 Poliklinik Yönetimi
-✅ Bölüm yönetimi
-
-✅ Kat ve konum takibi
-
-✅ Doktor atama
-
-✅ İletişim bilgileri
-
-💊 Reçete Yönetimi
-✅ Dijital reçete oluşturma
-
-✅ İlaç ve dozaj takibi
-
-✅ Kullanım talimatları
-
-✅ Reçete geçmişi
-
-📊 Dashboard & Analitik
-✅ Gerçek zamanlı istatistikler
-
-✅ Görsel veri temsili
-
-✅ Sistem genel bakış
-
-✅ Performans metrikleri
-
-🚀 Hızlı Başlangıç
-Ön Gereksinimler
-Java JDK 11 veya üstü
-
-MySQL Server 8.0 veya üstü
-
-MySQL Connector/J
-
-🛠️ Kurulum
-Repository'yi klonlayın
-
-bash
+1. **Repository'yi klonlayın**
+```bash
 git clone https://github.com/kullanici-adiniz/eag-medi-care.git
 cd eag-medi-care
 Veritabanı Kurulumu
@@ -201,7 +175,9 @@ Randevu durumunu takip edin
 🖼️ Ekran Görüntüleri
 <div align="center">
 Dashboard	Doktor Yönetimi	Hasta Yönetimi
-https://github.com/EagleSoft461/EAG_MEDI-CARE/tree/main/Screenshot
+https://via.placeholder.com/300x200/3498db/ffffff?text=Dashboard	https://via.placeholder.com/300x200/2ecc71/ffffff?text=Doktorlar	https://via.placeholder.com/300x200/e74c3c/ffffff?text=Hastalar
+Randevular	Poliklinikler	Reçeteler
+https://via.placeholder.com/300x200/9b59b6/ffffff?text=Randevular	https://via.placeholder.com/300x200/f39c12/ffffff?text=Poliklinikler	https://via.placeholder.com/300x200/1abc9c/ffffff?text=Re%C3%A7eteler
 </div>
 🔧 Yapılandırma
 Veritabanı Yapılandırması
@@ -297,52 +273,30 @@ Güvenlik Değerlendirmeleri
 🔒 Veritabanı yedekleme rutinleri
 
 <div align="center">
-Yardıma mı ihtiyacınız var? Bir issue açın veya geliştirme ekibiyle iletişime geçin!
+Yardıma mı ihtiyacınız var? Open an issue or contact the development team!
 
-https://img.shields.io/badge/Java%2520%2526%2520%E2%9D%A4%EF%B8%8F%2520ile%2520Yap%C4%B1ld%C4%B1-k%C4%B1rm%C4%B1z%C4%B1.svg
-https://img.shields.io/badge/MySQL%2520ile%2520G%C3%BC%C3%A7lendirildi-turuncu.svg
-https://img.shields.io/badge/UI-Java%2520Swing-ye%C5%9Fil.svg
+https://img.shields.io/badge/Made%2520with-Java%2520%2526%2520%E2%9D%A4%EF%B8%8F-red.svg
+https://img.shields.io/badge/Powered%2520by-MySQL-orange.svg
+https://img.shields.io/badge/UI-Java%2520Swing-green.svg
 
 </div>
 📞 Destek
-Destek ve sorularınız için:
+For support and questions:
 
-📧 E-posta: destek@eag-medi-care.com
+📧 Email: destek@eag-medi-care.com
 
-🐛 Hatalar: GitHub Issues
+🐛 Issues: GitHub Issues
 
-💬 Tartışmalar: GitHub Discussions
+💬 Discussions: GitHub Discussions
 
 EAG MEDI-CARE - Hastane yönetimini modern teknolojiyle devrimleştiriyor! 🏥✨
 
 🌟 Proje Hakkında
 EAG MEDI-CARE, sağlık kuruluşları için tasarlanmış kapsamlı bir hastane yönetim sistemidir. Sistem, hastane operasyonlarını dijitalleştirerek verimliliği artırmayı ve hasta bakım kalitesini iyileştirmeyi hedefler.
 
-🎯 Temel Amaçlar
-📊 Hastane süreçlerini otomatikleştirme
-
-👥 Hasta-doktor iletişimini iyileştirme
-
-💾 Veri güvenliği ve yedekleme
-
-📱 Kullanıcı dostu arayüz
-
-🔄 Gerçek zamanlı veri yönetimi
-
-🚀 Gelecek Güncellemeler
-📱 Mobil uygulama entegrasyonu
-
-🌐 Web arayüzü
-
-🤖 AI destekli tanı önerileri
-
-📈 Detaylı raporlama ve analitik
-
-🔐 Gelişmiş güvenlik özellikleri
-
 <div align="center">
 EAG MEDI-CARE ile hastane yönetimini modernleştirin! 🏥
 
 https://img.shields.io/badge/%F0%9F%9A%80-Hemen_Ba%C5%9Flay%C4%B1n-brightgreen.svg
 
-</div>
+</div> ```

@@ -301,4 +301,11 @@ EAG MEDI-CARE ile hastane yönetimini modernleştirin! 🏥
 
 https://img.shields.io/badge/%F0%9F%9A%80-Hemen_Ba%C5%9Flay%C4%B1n-brightgreen.svg
 
-</div> ```
+</div>
+```
+* ## ☕ Buy Me a Coffee / Bana Bir Kahve Ismarlayın
+If you enjoy using **Eag MEDI-CARE** and want to support my work, you can buy me a coffee! Your support helps me keep improving the app.  
+
+Eğer **Eag MEDI-CARE**’i kullanmayı seviyorsanız ve çalışmalarımı desteklemek isterseniz, bana bir kahve ısmarlayabilirsiniz! Desteğiniz uygulamanın gelişmesine yardımcı olur.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-FFDD00?style=flat-square)](https://buymeacoffee.com/Eaglesss)
